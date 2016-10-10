@@ -2,7 +2,7 @@
 A chrome extension to preview new Reddit posts.
 
 ### Screenshot
-![Screenshot](WILL ADD LATER)
+![Screenshot][screenshotlink]
 
 ### Installation
 There are two possible ways to install this extension:
@@ -37,3 +37,4 @@ Enjoy.
 [twitter]: https://twitter.com/r4meau
 [issues]: https://github.com/R4meau/reddit-post-previewer/issues
 [simpleiconlink]: http://www.flaticon.com/authors/simpleicon
+[screenshotlink]: https://github.com/R4meau/reddit-post-previewer/blob/master/doc-assets/rpr-screenshot.png?raw=true
