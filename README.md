@@ -13,7 +13,7 @@ There are two possible ways to install this extension:
 #### Manually or if you wish to contribute
 Clone or download this project
 
-Go to your extensions page: [chrome://extensions/](chrome://extensions/)
+Go to your extensions page: chrome://extensions/
 
 Check the "Developer mode" box in the top right
 
