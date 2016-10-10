@@ -1,0 +1,8 @@
+/*  Read about this page here: https://developer.chrome.com/extensions/content_scripts.html */
+
+#post-preview {
+	font-size: 13px;
+	border-top: 1px dotted #808080;
+	padding-top: 5px;
+	margin-top: 15px;
+}
