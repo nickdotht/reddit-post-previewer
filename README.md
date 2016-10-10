@@ -26,6 +26,7 @@ Click on the "Load unpacked extension..." button from the dropdown and point it 
 
 ### Credits
 Icon made by [SimpleIcon][simpleiconlink] from [www.flaticon.com](www.flaticon.com)
+
 Props to [Hanu Prateek][hanulink] for being a cool dude ;)
 
 If you have any questions, just [send me a tweet][twitter]. For improvement suggestions or bugs, [open an issue][issues] with the appropriate tag. Pull requests are always welcome :)
