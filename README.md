@@ -31,6 +31,10 @@ Props to [Hanu Prateek][hanulink] for being a cool dude ;)
 
 If you have any questions, just [send me a tweet][twitter]. For improvement suggestions or bugs, [open an issue][issues] with the appropriate tag. Pull requests are always welcome :)
 
+## Sponsors
+
+<a href="https://app.codesponsor.io/link/Fo4iMpT8bBWXwb54Lj7DPwqL/R4meau/reddit-post-previewer" rel="nofollow"><img src="https://app.codesponsor.io/embed/Fo4iMpT8bBWXwb54Lj7DPwqL/R4meau/reddit-post-previewer.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 Enjoy.
 
 [hanulink]: https://github.com/hanuprateek
